@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.immoney1/kaal-agent-safety",
+  "title": "Kaal Agent Safety (x402 paid MCP)",
+  "description": "Paid MCP tools for URL payment-safety scanning and provider recommendations; USDC on Base via x402.",
+  "version": "1.0.0",
+  "websiteUrl": "https://places-wayne-experiment-facial.trycloudflare.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://places-wayne-experiment-facial.trycloudflare.com/mcp"
+    }
+  ],
+  "repository": {
+    "source": "github",
+    "url": "https://github.com/immoney1/kaal-agent-safety"
+  }
+}
